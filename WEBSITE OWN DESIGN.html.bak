@@ -1,0 +1,376 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>WEBSITE OWN DESIGN</title>
+<link rel="stylesheet" type="text/css" href="WEBSITE OWN DESIGN.css"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+<main class="main">
+<div class="thirukural">
+
+<div class="a1">
+திருக்குறள்
+</div>
+<div class="b2">
+சுழன்றும்ஏர்ப் பின்னது உலகம் அதனால்
+</div>
+<div class="c3">
+உழந்தும் உழவே தலை.
+</div>
+<div class="d4">
+-திருவள்ளுவர்
+</div>
+</div>
+
+<div class="navbar">
+
+
+<nav>
+<div class="Logo">
+<a href="">Agricultural</a>
+</div>
+
+<ul>
+<li><a href="#Home">Home</a></li>
+<li><a href="#Card">Cards</a></li>
+<li><a href="#Thanjavur">Thanjavur</a></li>
+<li><a href="#விவசாயம்">விவசாயம்</a></li>
+
+</ul>
+<div class="menu">
+<div class="menu-line"></div>
+<div class="menu-line"></div>
+<div class="menu-line"></div>
+</div>
+</nav>
+
+
+
+
+
+<div class="container">
+<h1>Start of Agriculture</h1>
+<div class="photo">
+
+<div class="top" id="Home">
+<h1>Scholarly articles for agriculture history learning</h1>
+<p>About 11,500 years ago, people gradually learned how to grow cereal and root crops, and settled down to a life based on farming. 
+By 2,000 years ago, much of the Earth's population had become dependent on agriculture.Farming started 
+in the predynastic period at the end of the Paleolithic, after 10,000 BC. Staple food crops were grains such 
+as wheat and barley, alongside industrial crops such as flax and papyrus. In India, wheat, barley 
+and jujube were domesticated by 9,000 BC, soon followed by sheep and goats.Agriculture first began around 12,000 years
+ ago and was considered a revolution in farming culture. Prior to its introduction, most food supplies were derived from hunting
+ and gathering, which required a nomadic lifestyle to follow herds and natural wildlife. The practice of agriculture, however, allowed for people to settle 
+ down in just one area and grow a supply of food that would be able to sustain them indefinitely. Because of this, economic life began to flourish and 
+ population sizes began to increase exponentially.
+Quickly, it also became realized that certain regions of the world had certain climates and environments that favored the growth of indigent crops. Around 
+9,000 years ago, Syria became known as a place where cereals and figs were easy to produce. As far back as 6000 BC, China had begun rice and ancient farming.
+ Around 10,000 years ago, Mexico began cultivating squash, and around 5,000 years ago, began cultivating maize and teosinte. Around the same time, 
+ North America adopted corn production as well and also discovered the growth of sunflowers and potatoes throughout the Andes.</p>
+<input type="text" id="" name="fav language" value="" placeholder="விவசாயம்">
+<label for="css"></label>
+<i class="fa-solid fa-magnifying-glass"></i>
+</div>
+<div class="bottom">
+<img src="C:\Users\ADMIN\Pictures\Agriculture\free-photo-of-a-green-wheat-field-under-a-clear-blue-sky.jpeg"/>
+</div>
+</div>
+
+
+<div class="checker" id="Card">
+<h1>The key development in the rise of sedentary human civilization.</h1>
+<p>By 2,000 years ago, much of the Earth's population had become dependent on agriculture.</p>
+</div>
+<div class="model">
+
+<div class="box1 box">
+<img src="C:\Users\ADMIN\Pictures\Agriculture\pexels-photo-2168838.jpeg"/>
+<h2>Musa acuminata is a species of banana native to Southern Asia.</h2>
+<p>Banana Tree</p>
+<i class="fas fa-star "></i>
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i>
+<i class="fa-regular fa-star"></i> <span class="sir">4.9(142 Rating)</span>
+</div>
+
+<div class="box2 box">
+<img src="C:\Users\ADMIN\Pictures\Agriculture\pexels-photo-1367242.jpeg"/> 
+<h2>Tomato seeds were brought from Mexico to Spain by those early explorers.</h2>
+<p>Sun Flower</p>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i>
+<i class="fa-regular fa-star"></i> <span class="sir">4.9(142 Rating)</span>
+</div>
+
+<div class="box3 box">
+<img src="C:\Users\ADMIN\Pictures\Agriculture\pexels-photo-2835599.jpeg"/>
+<h2>The story of tea begins in China. According to legend, in 2737 BC.</h2>
+<p>Tea Leaf</p>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i>
+<i class="fa-regular fa-star"></i> <span class="sir">4.9(154 Rating)</span>
+</div>
+
+<div class="box4 box">
+<img src="C:\Users\ADMIN\Pictures\Agriculture\pexels-photo-4207905.jpeg"/>
+<h2>It was long thought that Earth's water did not originate from the planet's region. 
+</h2>
+<p>Water</p>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i>
+<i class="fa-regular fa-star"></i> <span class="sir">4.9(223Rating)</span>
+</div>
+
+
+<div class="box5 box">
+<img src="C:\Users\ADMIN\Pictures\Agriculture\pexels-photo-872483.jpeg"/>
+<h2>Corn was originally domesticated in Mexico by native peoples by about 9,000 years ago.</h2>
+<p>Corn Plant</p>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i>
+<i class="fa-regular fa-star"></i> <span class="sir">4.9(430 Rating)</span>
+</div>
+
+</div>
+</div>
+
+<div class="content" id="Thanjavur">
+<div>
+<h1>This article is about the municipal corporation in Tamil Nadu, India.</h1>
+<p><font class="font1">Thanjavur (Tamil: [t̪aɲdʑaːʋuːɾ]), also Tanjore,[1] is a city in the Indian state of Tamil Nadu. 
+Thanjavur is the 8th biggest city in Tamil Nadu. Thanjavur is an important center of South Indian religion, 
+art, and architecture. Most of the Great Living Chola Temples, which are UNESCO World Heritage Monuments, are located in and around Thanjavur.
+ The foremost among these, the Brihadeeswara Temple, built by the Chola emperor Rajaraja I, is located in 
+the centre of the.</font> <font class="comment2">Thanjavur is also home to Tanjore painting, a painting style unique to the region.Thanjavur is the headquarters 
+of the Thanjavur District. The city is an important agricultural centre located in the Kaveri Delta and is known as the Rice bowl of Tamil Nadu. 
+Thanjavur is administered by a municipal corporation covering an area of 128.02 km2 (49.43 sq mi) and had a population of 290,720 in 2011. Roadways 
+are the major means of transportation, while the city also has rail connectivity. The nearest airport is Tiruchirapalli International Airport, located
+ 59.6 km (37.0 mi) away from the city. <font class="font3">The nearest seaport is Karaikal, which is 94 km (58 mi) away from Thanjavur. The city first rose to prominence 
+ during the reign of the Cholas when it served as the capital of the empire. After the fall of the Cholas, the city was ruled by various dynasties such 
+ as the Mutharaiyar dynasty, the Pandyas, the Vijayanagar Empire, the Madurai Nayaks, the Thanjavur Nayaks, 
+the Thanjavur Marathas and the British Empire. It has been a part of independent India since 1947.</font> </p>
+<a  href="https://en.wikipedia.org/wiki/Thanjavur "target="blank">Browse Agriculture</a>
+</div>
+<div>
+<img src="C:\Users\ADMIN\Pictures\Agriculture\Thanjavur_2.jpg"/>
+</div>
+</div>
+<hr>
+
+
+<div class="cool">
+<h1>People Are Viewing</h1>
+</div>
+<div class="admin">
+<div class="ant1 ant">
+
+<img src="C:\Users\ADMIN\Pictures\Agriculture\mango-2215041_640.jpg"/>
+<p>Mangos originated over 5,000 years ago in the Hindo-Berma region, which extends from eastern 
+India and southern China across Southeast Asia. Around 300 A.D. mango seeds traveled from Asia to the Middle East,
+ East Africa and South America. Cultivation of mangos moved westward with the spice trade.</p>
+<h5>Mango</h5>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i>
+<i class="fa-regular fa-star"></i> 4.9(120 Rating)
+</div>
+
+<div class="ant2 ant">
+<img src="C:\Users\ADMIN\Pictures\Agriculture\jackfruit-2434869_640.jpg"/>
+<p>India is thought to be its place of origin. As for the name "jackfruit," it most likely emerged from what the
+ Portuguese called it, "jaca," which was probably a version of a name used in southern India, "chakka pazham."
+ Jackfruit has other names, too: kathal in Bangladesh, kanun in Thailand and nangka in Malaysia.</p>
+<h5>Jackfruit</h5>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i>
+<i class="fa-regular fa-star"></i> 4.9(142 Rating)
+</div>
+
+<div class="ant3 ant">
+<img src="C:\Users\ADMIN\Pictures\Agriculture\bananas-21686_640.jpg"/>
+<p>Musa acuminata is a species of banana native to Southern Asia, 
+its range comprising the Indian Subcontinent and Southeast Asia. Many of the modern edible ...</p>
+<h5>Banana</h5>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i>
+<i class="fa-regular fa-star"></i> 4.9(154 Rating)
+</div>
+
+<div class="ant4 ant">
+<img src="C:\Users\ADMIN\Pictures\Agriculture\tree-1281680_640.jpg"/>
+<p>Coconuts were first domesticated by the Austronesian peoples in Island Southeast Asia and were spread during the Neolithic 
+via their seaborne migrations as far east as the Pacific Islands, and as far west as Madagascar and the Comoros.</p>
+<h5>Cocount</h5>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i>
+<i class="fa-regular fa-star"></i> 4.9(222 Rating)
+</div>
+<div class="ant5 ant">
+<img src="C:\Users\ADMIN\Pictures\Agriculture\trees-7107965_640.jpg"/>
+<p>Palmyra palms can live for over 100 years. In ancient India, palmyra leaves were used as writing paper, with their parallel veins providing a useful 
+rule. In India, mature leaves of suitable size, 
+shape and texture were chosen and preserved by boiling in salt water with turmeric powder.</p>
+<h5>Palmyra Palm</h5>
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i> 
+<i class="fas fa-star"></i> 4.9(430 Rating)
+</div>
+</div>
+
+
+<div class="nuv" id="விவசாயம்">
+<div class="cartoon">
+<h1>நம்ம ஊரு விவசாயம்</h1>
+<p>உழவு அல்லது வேளாண்மை அல்லது விவசாயம் அல்லது கமம் என்பது உணவுக்காகவும் ஏனைய பயன்பாடுகளுக்காகவும் சிலவகைப் பயிர்களை உற்பத்தி செய்வதையும், 
+கால்நடை வளர்ப்பையும் குறிக்கும். வேளாண்மை ஒரு முக்கியமான முதனிலைத் தொழில் ஆகும். இத்தொழிலில் மனிதன் இயற்கையிலிருந்து கிடைக்கும்
+ பொருள்களைச் சேகரித்துப் பயன்படுத்திக் கொள்வதோடு நிறுத்திக் கொள்ளாமல், 
+அவ்வியற்கையோடு ஒன்றிணைந்து பணியாற்றி உணவுப் பொருட்களை உற்பத்தி செய்து கொள்கிறான்.</p>
+<img src="C:\Users\ADMIN\Pictures\Agriculture\images.jpg"/>
+<h4>Shanmugham Sham</h4>
+<h6>Front End Developer</h6>
+</div>
+
+</div>
+
+<div class="tom">
+<h1>Explore Top Categoriesn</h1>
+
+<img src="C:\Users\ADMIN\Pictures\Agriculture\pexels-photo-209339.jpeg"/>
+<img src="C:\Users\ADMIN\Pictures\Agriculture\pexels-photo-4303919.jpeg"/>
+<img src="C:\Users\ADMIN\Pictures\Agriculture\pexels-photo-1153655.jpeg"/>
+<img src="C:\Users\ADMIN\Pictures\Agriculture\pexels-photo-3653849.jpeg"/>
+<div class="jerry">
+<img src="C:\Users\ADMIN\Pictures\Agriculture\pexels-photo-1838596.jpeg"/>
+<img src="C:\Users\ADMIN\Pictures\Agriculture\pexels-photo-760281.jpeg"/>
+<img src="C:\Users\ADMIN\Pictures\Agriculture\beans.jpg"/>
+<img src="C:\Users\ADMIN\Pictures\Agriculture\pexels-photo-1367242.jpeg"/>
+</div>
+</div>
+
+<div class="sunflower">
+<div>
+<img src="C:\Users\ADMIN\Pictures\Agriculture\free-photo-of-sunflowers-on-field.jpeg"/>
+</div>
+<div>
+<h1>
+Sunflower plant
+</h1>
+<span class="name" id="Sunflower">
+Scientific name-Helianthus annuus|||
+Family-Asteraceae|||
+Kingdom-Plantae|||
+Order-Asterales|||
+</span>
+<p>
+The sunflower is native to North America and was first grown as a crop by indigenous tribes over 4,500 years ago. Native Americans cultivated
+ the sunflower from its original bushy, multi-headed type to produce a single-stemmed plant bearing a large flower.
+Sunflower is also a promising biofuel production plant. However, its increasing price makes it harder to be used for that purpose (1). 
+Many other mammals and birds are fed from sunflower seeds
+ except for humans. Among them are grouses, blackbirds, sparrows and doves, longspurs, chipmunks, and mice. 
+Sunflower seeds of this type are hulled, striped, larger, and are marketed as a snack for human consumption. 
+The seeds can be eaten roasted or un-hulled and used in processed foods, like cereal bars, bread, etc.</p>
+ <button><a href="https://youtu.be/wVl--g9HQW4" target="blank"> youtube </a></button> <i class="fa-solid fa-play"></i><span class="ccc"> watch video</span>
+ <div>
+ <video controls loop autoplay muted/>
+ <source src="C:\Users\ADMIN\Videos\1236570909.mp4">
+ </video>
+ </div>
+</div>
+</div>
+
+
+
+
+
+
+<div class="footer">
+<div>
+<i class="fa-solid fa-wheat-awn"></i><span class="vivi"> விவசாயம்</span>
+<p>About 11,500 years ago, people gradually learned how to grow cereal and root crops, 
+and settled down to a life based on farming. By 2,000 years ago, much of the Earth's population had become dependent on agriculture.
+</p>
+<div class="iii">
+<button><i class="fa-brands fa-youtube"></i> <a href="https://youtu.be/NkibM7Bmaoc" target="blank">youtube</a></button>
+<button><i class="fa-brands fa-facebook"></i> <a href="https://www.facebook.com/watch/?v=250928572965516" target="blank">FaceBook</a></button>
+</div>
+</div>
+</div>
+
+<div class="last">
+<div class="good">
+<h1>Soil</h1>
+<span>Sandy soils</span>
+<span>Silt soils</span>
+<span>Chalky soils</span>
+<span>Red soil</span>
+</div>
+
+<div class="good">
+<h1>Seed</h1>
+<span>Breeder seed</span>
+<span>Foundation seed</span>
+<span>Registered seed</span>
+<span>Certified seed</span>
+</div>
+
+<div class="good">
+<h1>Root</h1>
+<span>Taproots</span>
+<span>Fibrous roots</span>
+<span>Adventitious roots</span>
+<span>Lateral roots</span>
+</div>
+
+<div class="good">
+<h1>Farming</h1>
+<span>Dairy Farming</span>
+<span>Commercial Farming</span>
+<span>Plantation Farming</span>
+<span>Commercial grain farming</span>
+</div>
+
+<div class="good">
+<h1>Tree</h1>
+<span>banyan</span>
+<span>sequoia</span>
+<span>hop hornbeam</span>
+<span> baobab</span>
+</div>
+
+<div class="good">
+<h1>Harvest</h1>
+<p>Reaping</p>
+<p>threshing</p>
+<p>cleaning</p>
+<p>hauling</p>
+</div>
+
+
+</div>
+
+<div class="final">
+<button>விவசாயம் காப்போம்</button>
+</div>
+</main>
+</body>
+</html>
